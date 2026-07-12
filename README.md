@@ -1,6 +1,6 @@
 # 🤖 5-DOF Robotic Arm Design in SolidWorks
 
-##Screenshot
+
 <img width="1920" height="1080" alt="Screenshot (340)" src="https://github.com/user-attachments/assets/b3706d11-ca75-49ba-a1eb-7bafd54373a5" />
 
 ---
