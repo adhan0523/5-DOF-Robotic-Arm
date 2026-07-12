@@ -1,32 +1,38 @@
 # 🤖 5-DOF Robotic Arm Design in SolidWorks
 
-## Overview
-
-This repository documents my journey of designing a **5-Degree of Freedom (5-DOF) Robotic Arm** in SolidWorks.
-
-Instead of completing the entire project at once, I am building the robotic arm step by step, carefully designing, refining, and assembling each component. This approach allows me to focus on understanding the purpose and functionality of every part while improving my CAD modeling and mechanical design skills.
-
-The repository serves as both a learning log and a portfolio project, showcasing my progress as I work toward a fully assembled robotic arm.
+##Screenshot
+<img width="1920" height="1080" alt="Screenshot (340)" src="https://github.com/user-attachments/assets/b3706d11-ca75-49ba-a1eb-7bafd54373a5" />
 
 ---
 
-## Why I Started This Project
 
-As a B.Tech Mechatronics Engineering student, I wanted to work on a project that combines mechanical design with robotics.
+## Overview
 
-Designing a robotic arm gives me the opportunity to learn how different mechanical components interact, how joints provide controlled motion, and how a complete robotic mechanism is assembled from individual parts.
+This repository contains my design of a **5-DOF (Five Degrees of Freedom) Robotic Arm** created in SolidWorks.
 
-Rather than rushing through the design, I'm taking my time to understand each stage of the development process and continuously improve my skills.
+I started this project to challenge myself with something more complex than individual CAD models. Instead of designing a single part, I wanted to understand how multiple mechanical components come together to form a complete robotic system. Every part of this robotic arm was modeled individually and then assembled into the final design.
+
+Working on this project gave me practical experience in CAD modeling, assembly design, and the mechanical concepts involved in robotic arms.
+
+---
+
+## Why I Built This Project
+
+As a Mechatronics Engineering student, I've always been interested in robotics. Designing a robotic arm seemed like a great way to combine mechanical design with problem-solving.
+
+This wasn't just about creating a model that looked good. I wanted to understand how each joint contributes to the movement of the arm, how the parts fit together, and how small design changes can affect the overall assembly.
+
+There were plenty of revisions along the way, but each one helped me improve my understanding of SolidWorks and mechanical design.
 
 ---
 
 ## Project Objectives
 
 * Design a complete 5-DOF robotic arm in SolidWorks.
-* Improve CAD modeling and assembly skills.
-* Learn robotic mechanism design.
+* Improve my CAD modeling and assembly skills.
+* Learn the basics of robotic mechanism design.
 * Understand joint movement and mechanical articulation.
-* Build a professional engineering portfolio project.
+* Create a project for my engineering portfolio.
 
 ---
 
@@ -37,40 +43,41 @@ Rather than rushing through the design, I'm taking my time to understand each st
 
 ---
 
-## Current Progress
+## Project Highlights
 
-This project is currently under development.
-
-To maintain consistency and focus on quality, I design **one or two parts each day**. Once a part is completed, I verify its dimensions, refine the design if needed, and then continue with the next component before moving on to the final assembly.
-
-This gradual approach helps me understand the design process more deeply while documenting my progress throughout the project.
-
----
-
-## What I Am Learning
-
-Throughout this project, I am improving my skills in:
-
-* 3D Sketching and Part Modeling
-* Assembly Design
-* Mechanical Design Principles
-* Assembly Mates and Constraints
-* Motion Studies
-* Design Optimization
-* Engineering Documentation
-* CAD Project Organization
+* Complete 5-DOF robotic arm assembly
+* Individually modeled mechanical parts
+* Fully assembled CAD model
+* Proper use of assembly mates and constraints
+* Motion-ready design for future simulation
 
 ---
 
-## Future Plans
+## What I Learned
 
-As the project progresses, I plan to:
+This project helped me improve my understanding of:
 
-* Complete the full robotic arm assembly.
-* Perform motion studies to verify joint movement.
-* Generate engineering drawings.
-* Optimize the design for manufacturing.
-* Prepare the model for future prototyping and automation projects.
+* Part modeling
+* Assembly design
+* Mechanical design principles
+* Assembly mates and constraints
+* CAD project organization
+* Design troubleshooting
+* Robotic mechanisms
+
+More than anything, it taught me that complex assemblies are built one step at a time, and that careful planning makes the final assembly much easier.
+
+---
+
+## Future Improvements
+
+Although the CAD model is complete, I would like to continue improving it by:
+
+* Performing motion simulations
+* Creating detailed engineering drawings
+* Optimizing the design for manufacturing
+* Preparing the model for 3D printing
+* Building a physical prototype using servo motors and Arduino
 
 ---
 
@@ -78,14 +85,16 @@ As the project progresses, I plan to:
 
 * SolidWorks Part Files (.SLDPRT)
 * SolidWorks Assembly Files (.SLDASM)
-* Design Progress Screenshots
-* Motion Study Files (as development progresses)
+* Assembly Images
+* Motion Study Files (if available)
 
 ---
 
-## Progress Updates
+## Final Thoughts
 
-This repository is updated regularly as I complete new parts and improve the overall design. Every upload represents another step in my learning journey, allowing me to track my progress while building a complete robotic arm from the ground up.
+This is one of the most rewarding CAD projects I've completed so far. It challenged me to think beyond individual parts and focus on how an entire mechanical system works together.
+
+Looking back at the first few parts I designed and comparing them with the finished assembly, I can clearly see how much my SolidWorks skills have improved. This project has given me a stronger foundation for future robotics and mechanical design projects.
 
 ---
 
@@ -94,4 +103,4 @@ This repository is updated regularly as I complete new parts and improve the ove
 **Adhan Lenin**
 B.Tech Mechatronics Engineering Student
 
-This project is part of my ongoing CAD and robotics learning journey, where I regularly design mechanical systems to strengthen my understanding of engineering design, robotics, and SolidWorks.
+This repository is part of my engineering portfolio and reflects my continuous learning in CAD modeling, robotics, and mechanical design using SolidWorks.
